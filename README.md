@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priya Sharma
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Django Framework
+- 🌱 I’m currently learning Django Rest Framework and Frontend
 - 💞️ I’m looking for a job where I can get industry knowledge and also to sharpen my technical abilities.
 
 
